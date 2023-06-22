@@ -1,0 +1,111 @@
+{
+  "title": "SaaS versenden | Saas-Vorbild",
+  "description": "Verwenden Sie diese SaaS-Boilerplate, um Ihre SaaS im Handumdrehen zu erstellen.",
+  "hero": {
+    "headingPart1": "Dies ist eine Demolandung",
+    "headingPart2": "Seite, um Ihr SaaS zu erstellen",
+    "description": "Es ist wichtig, sich um den Patienten zu kümmern, der vom Klienten begleitet wird, aber gleichzeitig werden sie von großen Schmerzen und Leiden betroffen sein. Denn um ins kleinste Detail zu kommen, niemand sollte sich irgendeiner Art von Übung widmen, es sei denn, er zieht einen Nutzen daraus.",
+    "socialProofPart1": "vertraut durch",
+    "socialProofPart2": "Über 1000 Unternehmer und Unternehmen",
+    "primaryCta": "Loslegen",
+    "secondaryCta": "Mehr erfahren"
+  },
+  "features": {
+    "heading": "Merkmale",
+    "subHeading": "Alles, was Sie brauchen, um Ihr Unternehmen auf die nächste Stufe zu bringen",
+    "items": [
+      {
+        "name": "Sachen erschaffen",
+        "description": "Es ist wichtig, sich um den Patienten zu kümmern, vom Patienten befolgt zu werden, aber gleichzeitig treten viel Arbeit und Schmerzen auf. Denn zum kleinsten Detail komme ich, der keiner Arbeit nachgeht"
+      },
+      {
+        "name": "Sachen bauen",
+        "description": "Es ist wichtig, sich um den Patienten zu kümmern und vom Arzt begleitet zu werden, aber es ist eine Zeit großer Schmerzen und Leiden. Denn zum kleinsten Detail komme ich, der keiner Arbeit nachgeht"
+      },
+      {
+        "name": "Sachen versenden",
+        "description": "Es ist wichtig, sich um den Patienten zu kümmern, der vom Klienten begleitet wird, aber gleichzeitig werden sie von großen Schmerzen und Leiden betroffen sein. Denn zum kleinsten Detail komme ich, der keiner Arbeit nachgeht"
+      },
+      {
+        "name": "Sachen verkaufen",
+        "description": "Es ist wichtig, sich um den Patienten zu kümmern, vom Patienten befolgt zu werden, aber gleichzeitig treten viel Arbeit und Schmerzen auf. Denn zum kleinsten Detail komme ich, der keiner Arbeit nachgeht"
+      }
+    ]
+  },
+  "socialProof": {
+    "heading": "Referenzen",
+    "subHeading": "Vertrauen von mehr als 300 Unternehmen und Einzelpersonen"
+  },
+  "pricing": {
+    "title": "Preisgestaltung",
+    "heading": "Preisgestaltung",
+    "subHeading": "Holen Sie sich den Plan, der Ihren Anforderungen entspricht. Fangen Sie klein an und zahlen Sie, wenn Sie skalieren.",
+    "monthlyBillingButton": "Monatliche Abrechnung",
+    "yearlyBillingButton": "Jährliche Abrechnung",
+    "featuresLabel": "Merkmale",
+    "popularLabel": "Beliebt",
+    "plans": [
+      {
+        "title": "Basic",
+        "description": "Alle Funktionen, die Sie für den Einstieg benötigen.",
+        "features": [
+          "500 GB Speicher",
+          "1 Benutzer erlaubt",
+          "Begrenzte Funktionen",
+          "Begrenzte Unterstützung"
+        ]
+      },
+      {
+        "title": "Fachmann",
+        "description": "Für kleine Unternehmen, die mehr Unterstützung benötigen.",
+        "features": [
+          "1 TB Speicher",
+          "5 Benutzer erlaubt",
+          "Alle Features",
+          "Vorrangige Unterstützung"
+        ]
+      },
+      {
+        "title": "Meister",
+        "description": "Für große Teams, die in großem Umfang operieren.",
+        "features": [
+          "2 TB Speicher",
+          "10 Benutzer erlaubt",
+          "Alle Features",
+          "Vorrangige Unterstützung"
+        ]
+      }
+    ],
+    "signedInPricingButton": "Konto verwalten",
+    "notSignedInPricingButton": "Abonnieren",
+    "errorMessage": "Allgemeine Fehlermeldung, um den Benutzer darüber zu informieren, was schief gelaufen ist"
+  },
+  "faq": {
+    "heading": "Häufig gestellte Fragen",
+    "subHeading": "Erfahren Sie mehr über unser Angebot",
+    "items": [
+      {
+        "question": "Wieviel kostet das?",
+        "answer": "Aber in Wahrheit beschuldigen wir beide und führen mit gerechtem Hass diejenigen an, die die Schmeichelei der gegenwärtigen Freuden verdienen"
+      },
+      {
+        "question": "Kann ich dieses Produkt verwenden, ohne mich anzumelden?",
+        "answer": "Aber in Wahrheit beschuldigen wir beide und führen mit gerechtem Hass diejenigen an, die die Schmeichelei der gegenwärtigen Freuden verdienen"
+      },
+      {
+        "question": "Haben Sie 24/7-Support?",
+        "answer": "Aber in Wahrheit beschuldigen wir beide und führen mit gerechtem Hass diejenigen an, die die Schmeichelei der gegenwärtigen Freuden verdienen"
+      },
+      {
+        "question": "Kann ich einen Rabatt bekommen, wenn ich in großen Mengen kaufe?",
+        "answer": "Aber in Wahrheit beschuldigen wir beide und führen mit gerechtem Hass diejenigen an, die die Schmeichelei der gegenwärtigen Freuden verdienen"
+      }
+    ]
+  },
+  "finalCta": {
+    "headingPart1": "Verpassen Sie diese Gelegenheit nicht",
+    "headingPart2": "Melden Sie sich jetzt an, um loszulegen.",
+    "primaryCta": "Loslegen",
+    "secondaryCta": "Mehr erfahren"
+  }
+}

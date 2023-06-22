@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --header-height: 72px;
+  --vh100-offset: calc(100vh - var(--header-height));
+}
+
+body {
+  @apply min-h-screen text-gray-900 bg-gray-50 dark:text-white dark:bg-gray-800;
+}
+
+.header-link {
+  @apply font-medium text-base px-6 py-2 text-gray-500 hover:text-gray-700 dark:text-gray-100 dark:hover:text-gray-300;
+}
+
+.header-dropdown-link {
+  @apply font-bold px-4 py-2 text-gray-900;
+}
+
+.header-dropdown-link-container {
+  @apply py-2 text-center hover:bg-gray-300 rounded-lg;
+}
+
+.footer-link {
+  @apply px-4 py-2 mx-2 hover:text-gray-700 dark:hover:text-gray-300;
+}
+
+.mobile-nav-link {
+  @apply px-3 py-4 text-base font-bold text-center;
+}
+
+.account-page-nav-link {
+  @apply text-gray-600 hover:text-gray-900 dark:text-gray-100 dark:hover:text-gray-400;
+}
+
+.fill-screen {
+  min-height: var(--vh100-offset);
+}
+
+.default-input {
+  @apply w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none bg-white text-gray-900;
+}
+
+.default-button {
+  @apply w-full flex justify-center py-2 px-4 rounded-md text-sm font-bold text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none uppercase;
+}
+
+.section-heading {
+  @apply text-3xl lg:text-5xl font-extrabold text-center;
+}
+
+.section-subheading {
+  @apply mt-5 text-xl text-gray-700 dark:text-gray-200 text-center;
+}

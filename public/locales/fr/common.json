@@ -1,0 +1,20 @@
+{
+  "navbar": {
+    "homeLink": "Maison",
+    "pricingLink": "Tarification",
+    "featuresLink": "Fonctionnalités",
+    "blogLink": "Blog",
+    "accountLink": "Compte",
+    "profileLink": "Profil",
+    "signInLink": "S'identifier",
+    "signUpLink": "S'inscrire",
+    "signOutLink": "Déconnexion"
+  },
+  "footer": {
+    "homeLink": "Maison",
+    "aboutLink": "À propos de",
+    "blogLink": "Blog",
+    "privacyPolicyLink": "Politique de confidentialité",
+    "termsOfUseLink": "Conditions d'utilisation"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "navbar": {
+    "homeLink": "Heim",
+    "pricingLink": "Preisgestaltung",
+    "featuresLink": "Merkmale",
+    "blogLink": "Bloggen",
+    "accountLink": "Konto",
+    "profileLink": "Profil",
+    "signInLink": "Einloggen",
+    "signUpLink": "Anmelden",
+    "signOutLink": "Ausloggen"
+  },
+  "footer": {
+    "homeLink": "Heim",
+    "aboutLink": "Um",
+    "blogLink": "Bloggen",
+    "privacyPolicyLink": "Datenschutz-Bestimmungen",
+    "termsOfUseLink": "Nutzungsbedingungen"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "title": "Expédier SaaS | Passe-partout Saas",
+  "description": "Utilisez ce passe-partout SaaS pour créer votre SaaS en un rien de temps.",
+  "hero": {
+    "headingPart1": "Ceci est un atterrissage de démonstration",
+    "headingPart2": "page pour construire votre SaaS",
+    "description": "Il est important de prendre soin du patient, d'être suivi par le client, mais en même temps, il sera affecté par de grandes douleurs et souffrances. Car pour en venir au moindre détail, personne ne devrait s'engager dans un quelconque exercice s'il n'en tire aucun bénéfice.",
+    "socialProofPart1": "approuvé par",
+    "socialProofPart2": "1000+ entrepreneurs et entreprises",
+    "primaryCta": "Commencer",
+    "secondaryCta": "Apprendre encore plus"
+  },
+  "features": {
+    "heading": "Fonctionnalités",
+    "subHeading": "Tout ce dont vous avez besoin pour faire passer votre entreprise au niveau supérieur",
+    "items": [
+      {
+        "name": "Créer des trucs",
+        "description": "Il est important de prendre soin du patient, d'être suivi par le patient, mais en même temps, cela représente beaucoup de travail et de douleur. Car permettez-moi d'en venir au moindre détail, qui n'exerce aucun type de travail"
+      },
+      {
+        "name": "Construire des trucs",
+        "description": "Il est important de prendre soin du patient, d'être suivi par le patient, mais en même temps, cela représente beaucoup de travail et de douleur. Car permettez-moi d'en venir au moindre détail, qui n'exerce aucun type de travail"
+      },
+      {
+        "name": "Expédier des trucs",
+        "description": "Il est important de prendre soin du patient, d'être suivi par le médecin, mais c'est un moment de grande douleur et de souffrance. Car permettez-moi d'en venir au moindre détail, qui n'exerce aucun type de travail"
+      },
+      {
+        "name": "Vendre des trucs",
+        "description": "Il est important de prendre soin du patient, d'être suivi par le patient, mais en même temps, cela représente beaucoup de travail et de douleur. Car permettez-moi d'en venir au moindre détail, qui n'exerce aucun type de travail"
+      }
+    ]
+  },
+  "socialProof": {
+    "heading": "Témoignages",
+    "subHeading": "Reconnu par plus de 300 entreprises et particuliers"
+  },
+  "pricing": {
+    "title": "Tarification",
+    "heading": "Tarification",
+    "subHeading": "Obtenez le plan qui correspond à vos besoins. Commencez petit et payez au fur et à mesure de votre évolution.",
+    "monthlyBillingButton": "Facturation mensuelle",
+    "yearlyBillingButton": "Facturation annuelle",
+    "featuresLabel": "Fonctionnalités",
+    "popularLabel": "Populaire",
+    "plans": [
+      {
+        "title": "De base",
+        "description": "Toutes les fonctionnalités dont vous avez besoin pour commencer.",
+        "features": [
+          "500 Go de stockage",
+          "1 utilisateur autorisé",
+          "Fonctionnalités limitées",
+          "Assistance limitée"
+        ]
+      },
+      {
+        "title": "Professionnelle",
+        "description": "Pour les petites entreprises qui ont besoin de plus de soutien.",
+        "features": [
+          "1 To de stockage",
+          "5 utilisateurs autorisés",
+          "Toutes les fonctionnalités",
+          "Assistance prioritaire"
+        ]
+      },
+      {
+        "title": "Maître",
+        "description": "Pour les grandes équipes qui opèrent à grande échelle.",
+        "features": [
+          "2 To de stockage",
+          "10 utilisateurs autorisés",
+          "Toutes les fonctionnalités",
+          "Assistance prioritaire"
+        ]
+      }
+    ],
+    "signedInPricingButton": "Gérer son compte",
+    "notSignedInPricingButton": "S'abonner",
+    "errorMessage": "Message d'erreur générique pour informer l'utilisateur de ce qui s'est mal passé"
+  },
+  "faq": {
+    "heading": "Questions fréquemment posées",
+    "subHeading": "En savoir plus sur notre offre",
+    "items": [
+      {
+        "question": "Combien ça coûte?",
+        "answer": "Mais en vérité nous accusons et menons avec une juste haine ceux qui méritent la flatterie des plaisirs présents"
+      },
+      {
+        "question": "Puis-je utiliser ce produit sans m'inscrire ?",
+        "answer": "Mais en vérité nous accusons et menons avec une juste haine ceux qui méritent la flatterie des plaisirs présents"
+      },
+      {
+        "question": "Avez-vous une assistance 24h/24 et 7j/7 ?",
+        "answer": "Mais en vérité nous accusons et menons avec une juste haine ceux qui méritent la flatterie des plaisirs présents"
+      },
+      {
+        "question": "Puis-je bénéficier d'une remise si j'achète en gros ?",
+        "answer": "Mais en vérité nous accusons et menons avec une juste haine ceux qui méritent la flatterie des plaisirs présents"
+      }
+    ]
+  },
+  "finalCta": {
+    "headingPart1": "Ne manquez pas cette opportunité",
+    "headingPart2": "Inscrivez-vous maintenant pour commencer.",
+    "primaryCta": "Commencer",
+    "secondaryCta": "Apprendre encore plus"
+  }
+}

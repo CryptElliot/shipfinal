@@ -1,0 +1,87 @@
+{
+  "accountHome": {
+    "title": "Account",
+    "accountLink": "Account",
+    "profileLink": "Profile",
+    "changePasswordLink": "Change password",
+    "closeAccountLink": "Close account",
+    "heading": "Manage your account",
+    "activeSubscriptionLabel": "You are currently on the {{subscriptionName}} plan.",
+    "noSubscriptionLabel": "You are not subscribed yet.",
+    "choosePlanLink": "Choose your plan",
+    "subscriptionEndsLabel": "Subscription ends:",
+    "manageSubscriptionButton": "Manage subscription on Stripe",
+    "redirectToStripeErrorMessage": "An error occurred while creating a Stripe session. Please try again."
+  },
+  "signup": {
+    "title": "Sign up",
+    "heading": "Sign up to get started",
+    "signUpButton": "Sign up",
+    "signInLink": "Already have an account? Sign in",
+    "userAlreadyExistErrorMessage": "You already have an account. Please sign in or reset your password.",
+    "signupConfirmationMessage": "Please check your email for a confirmation link."
+  },
+  "signin": {
+    "title": "Sign in",
+    "heading": "Sign in to your account",
+    "forgotPasswordLink": "Forgot your password?",
+    "signInButton": "Sign in",
+    "orLabel": "Or",
+    "signInWithGoogleButton": "Sign in with Google",
+    "signInWithGitHubButton": "Sign in with GitHub",
+    "signInWithMagicLink": "Sign in with magic link",
+    "signUpWithEmailLink": "Sign up with email"
+  },
+  "magicLink": {
+    "title": "Sign in with magic link",
+    "heading": "Enter your email",
+    "signInWithMagicLinkButton": "Send my magic link",
+    "signWithPasswordLink": "Sign in with an email and password",
+    "magicLinkConfirmationMessage": "Please check your email for a magic link."
+  },
+  "resetPassword": {
+    "title": "Reset password",
+    "heading": "Enter your new password",
+    "resetPasswordButton": "Reset password"
+  },
+  "forgotPassword": {
+    "title": "Forgot password",
+    "heading": "Enter your email",
+    "sendResetLinkButton": "Send password reset link",
+    "emailConfirmationMessage": "Please check your email for a password reset link."
+  },
+  "changePassword": {
+    "title": "Change password",
+    "heading": "Change your password",
+    "newPasswordLabel": "New password",
+    "confirmNewPasswordLabel": "Confirm new password",
+    "updatePasswordButton": "Reset password",
+    "passwordChangedConfirmationMessage": "Password updated successfully"
+  },
+  "closeAccount": {
+    "title": "Close Account",
+    "heading": "Close your account",
+    "subHeading": "Caution! This action is irreversible. Your data will be deleted and your account will be closed immediately.",
+    "closeAccountButton": "Close account",
+    "confirmationModalTitle": "Confirm to close your account",
+    "confirmationModalDescription": "This action is irreversible. Your data will be deleted and your account will be closed immediately.",
+    "closeAccountConfirmationMessage": "Are you sure you want to close your account and delete all your data?",
+    "yesButton": "Yes",
+    "noButton": "No",
+    "closeAccountErrorMessage": "An error occurred while trying to close your account. Please try again."
+  },
+  "profile": {
+    "title": "Profile",
+    "heading": "Update your profile",
+    "fullNameLabel": "Full name",
+    "saveProfileButton": "Save profile",
+    "updateProfileConfirmationMessage": "Details saved successfully.",
+    "updateProfileErrorMessage": "An error occurred while saving your details."
+  },
+  "shared": {
+    "emailLabel": "Email",
+    "passwordLabel": "Password",
+    "confirmPasswordLabel": "Confirm Password",
+    "passwordConfirmationErrorMessage": "Passwords do not match."
+  }
+}

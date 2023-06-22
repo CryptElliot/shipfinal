@@ -1,0 +1,19 @@
+{
+  "blogHome": {
+    "title": "All Posts",
+    "paginationNextButton": "Next",
+    "paginationPreviousButton": "Previous",
+    "searchArticlesPlaceholder": "Search articles",
+    "noPostFoundLabel": "No posts found."
+  },
+  "tags": {
+    "heading": "Tags"
+  },
+  "slug": {
+    "tagsHeading": "Tags",
+    "previousArticleLink": "Previous Article",
+    "nextArticleLink": "Next Article",
+    "backToBlogLink": "Back to the blog",
+    "underConstructionHeading": "Under Construction"
+  }
+}

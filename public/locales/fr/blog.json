@@ -1,0 +1,19 @@
+{
+  "blogHome": {
+    "title": "Tous les messages",
+    "paginationNextButton": "Prochain",
+    "paginationPreviousButton": "Précédent",
+    "searchArticlesPlaceholder": "Rechercher des articles",
+    "noPostFoundLabel": "Aucun article trouvé."
+  },
+  "tags": {
+    "heading": "Mots clés"
+  },
+  "slug": {
+    "tagsHeading": "Mots clés",
+    "previousArticleLink": "Article précédent",
+    "nextArticleLink": "article suivant",
+    "backToBlogLink": "Retour au blog",
+    "underConstructionHeading": "En construction"
+  }
+}

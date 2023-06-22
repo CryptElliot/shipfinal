@@ -1,0 +1,111 @@
+{
+  "title": "Ship SaaS | Saas boilerplate",
+  "description": "Use this SaaS boilerplate to build your SaaS in no time.",
+  "hero": {
+    "headingPart1": "This is a demo landing",
+    "headingPart2": "page to build your SaaS",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "socialProofPart1": "trusted by",
+    "socialProofPart2": "1000+ entrepreneurs and businesses",
+    "primaryCta": "Get started",
+    "secondaryCta": "Learn more"
+  },
+  "features": {
+    "heading": "Features",
+    "subHeading": "Everything you need to take your business to the next level",
+    "items": [
+      {
+        "name": "Create stuff",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+      },
+      {
+        "name": "Build stuff",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+      },
+      {
+        "name": "Ship stuff",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+      },
+      {
+        "name": "Sell stuff",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+      }
+    ]
+  },
+  "socialProof": {
+    "heading": "Testimonials",
+    "subHeading": "Trusted by 300+ companies and individuals"
+  },
+  "pricing": {
+    "title": "Pricing",
+    "heading": "Pricing",
+    "subHeading": "Get the plan that fits your needs. Start small and pay as you scale.",
+    "monthlyBillingButton": "Monthly billing",
+    "yearlyBillingButton": "Yearly billing",
+    "featuresLabel": "Features",
+    "popularLabel": "Popular",
+    "plans": [
+      {
+        "title": "Basic",
+        "description": "All the features you need to get started.",
+        "features": [
+          "500 GB Storage",
+          "1 User allowed",
+          "Limited features",
+          "Limited support"
+        ]
+      },
+      {
+        "title": "Professional",
+        "description": "For small businesses that require more support.",
+        "features": [
+          "1 TB Storage",
+          "5 Users allowed",
+          "All features",
+          "Priority support"
+        ]
+      },
+      {
+        "title": "Master",
+        "description": "For big teams that operate at scale.",
+        "features": [
+          "2 TB Storage",
+          "10 Users allowed",
+          "All features",
+          "Priority support"
+        ]
+      }
+    ],
+    "signedInPricingButton": "Manage account",
+    "notSignedInPricingButton": "Subscribe",
+    "errorMessage": "Generic error message to inform the user what went wrong"
+  },
+  "faq": {
+    "heading": "Frequently asked questions",
+    "subHeading": "Find out more about our offering",
+    "items": [
+      {
+        "question": "How much does it cost?",
+        "answer": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum"
+      },
+      {
+        "question": "Can I use this product without signing up?",
+        "answer": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum"
+      },
+      {
+        "question": "Do you have 24/7 support?",
+        "answer": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum"
+      },
+      {
+        "question": "Can I get a discount if I buy in bulk?",
+        "answer": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum"
+      }
+    ]
+  },
+  "finalCta": {
+    "headingPart1": "Don't miss this opportunity",
+    "headingPart2": "Sign up now to get started.",
+    "primaryCta": "Get started",
+    "secondaryCta": "Learn more"
+  }
+}

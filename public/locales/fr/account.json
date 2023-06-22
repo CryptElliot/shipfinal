@@ -1,0 +1,87 @@
+{
+  "accountHome": {
+    "title": "Compte",
+    "accountLink": "Compte",
+    "profileLink": "Profil",
+    "changePasswordLink": "Changer le mot de passe",
+    "closeAccountLink": "Fermer le compte",
+    "heading": "Gérer votre compte",
+    "activeSubscriptionLabel": "Vous êtes actuellement sur le forfait {{subscriptionName}}.",
+    "noSubscriptionLabel": "Vous n'êtes pas encore abonné.",
+    "choosePlanLink": "Choisissez votre forfait",
+    "subscriptionEndsLabel": "Fin de l'abonnement :",
+    "manageSubscriptionButton": "Gérer l'abonnement sur Stripe",
+    "redirectToStripeErrorMessage": "Une erreur s'est produite lors de la création d'une session Stripe. Veuillez réessayer."
+  },
+  "signup": {
+    "title": "S'inscrire",
+    "heading": "Inscrivez-vous pour commencer",
+    "signUpButton": "S'inscrire",
+    "signInLink": "Vous avez déjà un compte? S'identifier",
+    "userAlreadyExistErrorMessage": "Avez vous déjà un compte. Veuillez vous connecter ou réinitialiser votre mot de passe.",
+    "signupConfirmationMessage": "Veuillez vérifier votre e-mail pour un lien de confirmation."
+  },
+  "signin": {
+    "title": "S'identifier",
+    "heading": "Connectez-vous à votre compte",
+    "forgotPasswordLink": "Mot de passe oublié?",
+    "signInButton": "S'identifier",
+    "orLabel": "Ou",
+    "signInWithGoogleButton": "Connectez-vous avec Google",
+    "signInWithGitHubButton": "Connectez-vous avec GitHub",
+    "signInWithMagicLink": "Connectez-vous avec le lien magique",
+    "signUpWithEmailLink": "S'enregistrer avec l'adresse e-mail"
+  },
+  "magicLink": {
+    "title": "Connectez-vous avec le lien magique",
+    "heading": "Entrer votre Email",
+    "signInWithMagicLinkButton": "Envoie mon lien magique",
+    "signWithPasswordLink": "Connectez-vous avec un email et un mot de passe",
+    "magicLinkConfirmationMessage": "S'il vous plaît vérifier votre e-mail pour un lien magique."
+  },
+  "resetPassword": {
+    "title": "Réinitialiser le mot de passe",
+    "heading": "Entrez votre nouveau mot de passe",
+    "resetPasswordButton": "Réinitialiser le mot de passe"
+  },
+  "forgotPassword": {
+    "title": "Mot de passe oublié",
+    "heading": "Entrer votre Email",
+    "sendResetLinkButton": "Envoyer le lien de réinitialisation du mot de passe",
+    "emailConfirmationMessage": "Veuillez vérifier votre e-mail pour un lien de réinitialisation du mot de passe."
+  },
+  "changePassword": {
+    "title": "Changer le mot de passe",
+    "heading": "changez votre mot de passe",
+    "newPasswordLabel": "Nouveau mot de passe",
+    "confirmNewPasswordLabel": "Confirmer le nouveau mot de passe",
+    "updatePasswordButton": "Réinitialiser le mot de passe",
+    "passwordChangedConfirmationMessage": "Mot de passe mis à jour avec succès"
+  },
+  "closeAccount": {
+    "title": "Fermer le compte",
+    "heading": "Fermez votre compte",
+    "subHeading": "Mise en garde! Cette action est irréversible. Vos données seront supprimées et votre compte sera fermé immédiatement.",
+    "closeAccountButton": "Fermer le compte",
+    "confirmationModalTitle": "Confirmez pour fermer votre compte",
+    "confirmationModalDescription": "Cette action est irréversible. Vos données seront supprimées et votre compte sera fermé immédiatement.",
+    "closeAccountConfirmationMessage": "Êtes-vous sûr de vouloir fermer votre compte et supprimer toutes vos données ?",
+    "yesButton": "Oui",
+    "noButton": "Non",
+    "closeAccountErrorMessage": "Une erreur s'est produite lors de la tentative de fermeture de votre compte. Veuillez réessayer."
+  },
+  "profile": {
+    "title": "Profil",
+    "heading": "Mettre à jour votre profil",
+    "fullNameLabel": "Nom et prénom",
+    "saveProfileButton": "Enregistrer le profil",
+    "updateProfileConfirmationMessage": "Détails enregistrés avec succès.",
+    "updateProfileErrorMessage": "Une erreur s'est produite lors de l'enregistrement de vos informations."
+  },
+  "shared": {
+    "emailLabel": "E-mail",
+    "passwordLabel": "Mot de passe",
+    "confirmPasswordLabel": "Confirmez le mot de passe",
+    "passwordConfirmationErrorMessage": "Les mots de passe ne correspondent pas."
+  }
+}

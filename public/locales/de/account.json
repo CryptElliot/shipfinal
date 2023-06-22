@@ -1,0 +1,87 @@
+{
+  "accountHome": {
+    "title": "Konto",
+    "accountLink": "Konto",
+    "profileLink": "Profil",
+    "changePasswordLink": "Passwort ändern",
+    "closeAccountLink": "Konto schließen",
+    "heading": "Verwalten Sie Ihr Konto",
+    "activeSubscriptionLabel": "Sie haben derzeit den Plan {{subscriptionName}}.",
+    "noSubscriptionLabel": "Sie sind noch nicht abonniert.",
+    "choosePlanLink": "Wählen Sie Ihren Plan",
+    "subscriptionEndsLabel": "Abonnement endet:",
+    "manageSubscriptionButton": "Abonnement auf Stripe verwalten",
+    "redirectToStripeErrorMessage": "Beim Erstellen einer Stripe-Sitzung ist ein Fehler aufgetreten. Bitte versuche es erneut."
+  },
+  "signup": {
+    "title": "Anmelden",
+    "heading": "Melden Sie sich an, um loszulegen",
+    "signUpButton": "Anmelden",
+    "signInLink": "Sie haben bereits ein Konto? Einloggen",
+    "userAlreadyExistErrorMessage": "Sie haben schon ein Konto. Bitte melden Sie sich an oder setzen Sie Ihr Passwort zurück.",
+    "signupConfirmationMessage": "Bitte überprüfen Sie Ihre E-Mail auf einen Bestätigungslink."
+  },
+  "signin": {
+    "title": "Einloggen",
+    "heading": "Melden Sie sich bei Ihrem Konto an",
+    "forgotPasswordLink": "Haben Sie Ihr Passwort vergessen?",
+    "signInButton": "Einloggen",
+    "orLabel": "Oder",
+    "signInWithGoogleButton": "Anmeldung mit Google",
+    "signInWithGitHubButton": "Melden Sie sich bei GitHub an",
+    "signInWithMagicLink": "Melden Sie sich mit einem magischen Link an",
+    "signUpWithEmailLink": "Registrieren Sie sich mit Ihrer E-Mail Adresse"
+  },
+  "magicLink": {
+    "title": "Melden Sie sich mit einem magischen Link an",
+    "heading": "Geben sie ihre E-Mail Adresse ein",
+    "signInWithMagicLinkButton": "Senden Sie meinen magischen Link",
+    "signWithPasswordLink": "Melden Sie sich mit einer E-Mail und einem Passwort an",
+    "magicLinkConfirmationMessage": "Bitte überprüfen Sie Ihre E-Mail auf einen magischen Link."
+  },
+  "resetPassword": {
+    "title": "Passwort zurücksetzen",
+    "heading": "Gib dein neues Passwort ein",
+    "resetPasswordButton": "Passwort zurücksetzen"
+  },
+  "forgotPassword": {
+    "title": "Passwort vergessen",
+    "heading": "Geben sie ihre E-Mail Adresse ein",
+    "sendResetLinkButton": "Link zum Zurücksetzen des Passworts senden",
+    "emailConfirmationMessage": "Bitte überprüfen Sie Ihre E-Mail auf einen Link zum Zurücksetzen des Passworts."
+  },
+  "changePassword": {
+    "title": "Passwort ändern",
+    "heading": "Ändern Sie Ihr Passwort",
+    "newPasswordLabel": "Neues Passwort",
+    "confirmNewPasswordLabel": "Bestätige neues Passwort",
+    "updatePasswordButton": "Passwort zurücksetzen",
+    "passwordChangedConfirmationMessage": "Passwort erfolgreich aktualisiert"
+  },
+  "closeAccount": {
+    "title": "Konto schließen",
+    "heading": "Schließen Sie Ihr Konto",
+    "subHeading": "Vorsicht! Diese Aktion ist irreversibel. Ihre Daten werden gelöscht und Ihr Konto wird umgehend geschlossen.",
+    "closeAccountButton": "Konto schließen",
+    "confirmationModalTitle": "Bestätigen Sie, um Ihr Konto zu schließen",
+    "confirmationModalDescription": "Diese Aktion ist irreversibel. Ihre Daten werden gelöscht und Ihr Konto wird umgehend geschlossen.",
+    "closeAccountConfirmationMessage": "Möchten Sie Ihr Konto wirklich schließen und alle Ihre Daten löschen?",
+    "yesButton": "Ja",
+    "noButton": "Nein",
+    "closeAccountErrorMessage": "Beim Versuch, Ihr Konto zu schließen, ist ein Fehler aufgetreten. Bitte versuche es erneut."
+  },
+  "profile": {
+    "title": "Profil",
+    "heading": "Aktualisiere dein Profil",
+    "fullNameLabel": "Vollständiger Name",
+    "saveProfileButton": "Profil speichern",
+    "updateProfileConfirmationMessage": "Details erfolgreich gespeichert.",
+    "updateProfileErrorMessage": "Beim Speichern Ihrer Daten ist ein Fehler aufgetreten."
+  },
+  "shared": {
+    "emailLabel": "Email",
+    "passwordLabel": "Passwort",
+    "confirmPasswordLabel": "Passwort bestätigen",
+    "passwordConfirmationErrorMessage": "Passwörter stimmen nicht überein."
+  }
+}
